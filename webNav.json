@@ -20,11 +20,13 @@
 				},
 				{
 					"item": "https://kb.juniper.net/InfoCenter/index?page=content&id=KB21476",
-					"site": "推荐OS版本"
+					"site": "推荐OS版本",
+					"info": "JTAC推荐OS版本，不定期更新"
 				},
 				{
 					"item": "https://support.juniper.net/support/tools/srxha/",
-					"site": "HA配置工具\n"
+					"site": "HA配置工具\n",
+					"info": "HA配置自动生成"
 				}
 			]
 		},
@@ -38,7 +40,8 @@
 				},
 				{
 					"item": "https://tmgmatrix.cisco.com/home",
-					"site": "光模块兼容查询"
+					"site": "光模块兼容查询",
+					"info": "查检光模块与硬件设备兼容情况\n"
 				},
 				{}
 			]
@@ -48,7 +51,8 @@
 			"item": [
 				{
 					"item": "ttp://app.huawei.com/enterprisebg/icarea/wechat/wechat.html?Language=CN",
-					"site": "维保信息查询\n"
+					"site": "维保信息查询\n",
+					"info": "硬件维保信息查询"
 				},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/virtual/index?lang=zh",
@@ -62,7 +66,8 @@
 				},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/network_hdcfg/index?domain=0&lang=zh",
-					"site": "硬件配置工具\n"
+					"site": "硬件配置工具\n",
+					"info": "配件配置工具"
 				}
 			]
 		},
