@@ -8,8 +8,12 @@
 		{
 			"title": "Juniper",
 			"item": [
-				{}
+				{
+					"item": "https://entitlementsearch.juniper.net/entitlementsearch/",
+					"site": "序列号查询"
+				}
 			]
 		}
-	]
+	],
+	"name": "导航"
 }
