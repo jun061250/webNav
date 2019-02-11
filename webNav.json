@@ -2,8 +2,12 @@
 	"category": [
 		{
 			"item": [
-				{}
-			]
+				{
+					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/svrstate",
+					"site": "序列号查询"
+				}
+			],
+			"title": "深信服"
 		},
 		{
 			"title": "Juniper",
@@ -11,6 +15,42 @@
 				{
 					"item": "https://entitlementsearch.juniper.net/entitlementsearch/",
 					"site": "序列号查询"
+				},
+				{
+					"item": "https://support.juniper.net/support/tools/srxha/",
+					"site": "HA配置工具",
+					"info": "https://support.juniper.net/support/tools/srxha/"
+				},
+				{
+					"item": "https://kb.juniper.net/InfoCenter/index?page=content&id=KB21476",
+					"site": "JTAC推荐OS版本"
+				}
+			]
+		},
+		{
+			"title": "思科",
+			"item": [
+				{
+					"item": "https://www.cisco.com/c/en/us/td/docs/wireless/compatibility/matrix/compatibility-matrix.html",
+					"site": "思科无线控制器与AP兼容列表"
+				},
+				{
+					"item": "https://tmgmatrix.cisco.com/home",
+					"site": "光模块兼容查询"
+				},
+				{}
+			]
+		},
+		{
+			"title": "华为",
+			"item": [
+				{
+					"item": "ttp://app.huawei.com/enterprisebg/icarea/wechat/wechat.html?Language=CN",
+					"site": "维保信息查询"
+				},
+				{
+					"item": "http://support.huawei.com/onlinetoolsweb/virtual/index?lang=zh",
+					"site": "交换机堆叠&SVF助手"
 				}
 			]
 		}
