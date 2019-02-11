@@ -79,6 +79,19 @@
 					"site": "维保信息查询"
 				}
 			]
+		},
+		{
+			"title": "锐捷",
+			"item": [
+				{
+					"item": "http://safeup.ruijie.com.cn/",
+					"site": "激活系统"
+				},
+				{
+					"item": "http://pa.ruijie.com.cn:8001/main_wireless.jsf;jsessionid=EC31DE43795E58C549B364562EDA77B8#",
+					"site": "产品授权系统"
+				}
+			]
 		}
 	],
 	"name": "导航"
