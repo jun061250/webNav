@@ -6,6 +6,10 @@
 					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/svrstate",
 					"site": "序列号查询",
 					"info": "深信服序列号查询"
+				},
+				{
+					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/rpstate",
+					"site": "维修进度查询"
 				}
 			],
 			"title": "深信服"
