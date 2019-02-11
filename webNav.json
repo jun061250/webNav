@@ -4,7 +4,8 @@
 			"item": [
 				{
 					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/svrstate",
-					"site": "序列号查询"
+					"site": "序列号查询",
+					"info": "深信服序列号查询"
 				}
 			],
 			"title": "深信服"
@@ -14,11 +15,12 @@
 			"item": [
 				{
 					"item": "https://entitlementsearch.juniper.net/entitlementsearch/",
-					"site": "序列号查询                    \n"
+					"site": "序列号查询  ",
+					"info": "Juniper序列号查询，需要账号登陆"
 				},
 				{
 					"item": "https://kb.juniper.net/InfoCenter/index?page=content&id=KB21476",
-					"site": "JTAC推荐OS版本"
+					"site": "推荐OS版本"
 				},
 				{
 					"item": "https://support.juniper.net/support/tools/srxha/",
@@ -31,7 +33,8 @@
 			"item": [
 				{
 					"item": "https://www.cisco.com/c/en/us/td/docs/wireless/compatibility/matrix/compatibility-matrix.html",
-					"site": "思科无线控制器与AP兼容列表"
+					"site": "AP兼容查询",
+					"info": "无线控制器和AP兼容性列表"
 				},
 				{
 					"item": "https://tmgmatrix.cisco.com/home",
@@ -49,11 +52,13 @@
 				},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/virtual/index?lang=zh",
-					"site": "交换机堆叠&SVF助手"
+					"site": "堆叠助手",
+					"info": "交换机堆叠助手"
 				},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/fccqt/index.jsp?domain=0&lang=zh",
-					"site": "友商对照查询工具"
+					"site": "友商对照工具",
+					"info": "华为与其它厂商对照工具"
 				},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/network_hdcfg/index?domain=0&lang=zh",
