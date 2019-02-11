@@ -27,6 +27,19 @@
 					"item": "https://support.juniper.net/support/tools/srxha/",
 					"site": "HA配置工具\n",
 					"info": "HA配置自动生成"
+				},
+				{
+					"item": "https://apps.juniper.net/hct/category/#catKey=100001&modelType=All&pf=SRX+Series",
+					"site": "硬件对比工具",
+					"info": "Juniper产品线对比"
+				},
+				{
+					"item": "https://apps.juniper.net/hct/product/",
+					"site": "硬件兼容查询"
+				},
+				{
+					"item": "https://apps.juniper.net/feature-explorer/",
+					"site": "产品特性查询"
 				}
 			]
 		},
@@ -77,6 +90,10 @@
 				{
 					"item": "http://es.h3c.com/entitlement?locale=zh_CN",
 					"site": "维保信息查询"
+				},
+				{
+					"item": "https://oasis.h3c.com",
+					"site": "绿洲平台"
 				}
 			]
 		},
