@@ -17,13 +17,12 @@
 					"site": "序列号查询"
 				},
 				{
-					"item": "https://support.juniper.net/support/tools/srxha/",
-					"site": "HA配置工具",
-					"info": "https://support.juniper.net/support/tools/srxha/"
-				},
-				{
 					"item": "https://kb.juniper.net/InfoCenter/index?page=content&id=KB21476",
 					"site": "JTAC推荐OS版本"
+				},
+				{
+					"item": "https://support.juniper.net/support/tools/srxha/",
+					"site": "HA配置工具"
 				}
 			]
 		},
@@ -51,6 +50,23 @@
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/virtual/index?lang=zh",
 					"site": "交换机堆叠&SVF助手"
+				},
+				{
+					"item": "http://support.huawei.com/onlinetoolsweb/fccqt/index.jsp?domain=0&lang=zh",
+					"site": "友商对照查询工具"
+				},
+				{
+					"item": "http://support.huawei.com/onlinetoolsweb/network_hdcfg/index?domain=0&lang=zh",
+					"site": "硬件配置工具"
+				}
+			]
+		},
+		{
+			"title": "华三",
+			"item": [
+				{
+					"item": "http://es.h3c.com/entitlement?locale=zh_CN",
+					"site": "维保信息查询"
 				}
 			]
 		}
