@@ -106,6 +106,10 @@
 					"item": "http://support.huawei.com/onlinetoolsweb/einfofinder/Hardware?module=1&lang=zh",
 					"site": "部件信息查询",
 					"info": "硬件部件信息查询"
+				},
+				{
+					"item": "http://support.huawei.com/onlinetoolsweb/pqt/index.jsp",
+					"site": "默认账号密码"
 				}
 			]
 		},
