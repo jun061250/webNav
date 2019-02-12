@@ -68,7 +68,7 @@
 			"title": "华为",
 			"item": [
 				{
-					"item": "ttp://app.huawei.com/enterprisebg/icarea/wechat/wechat.html?Language=CN",
+					"item": "http://app.huawei.com/enterprisebg/icarea/wechat/wechat.html?Language=CN",
 					"site": "维保信息查询\n",
 					"info": "硬件维保信息查询"
 				},
