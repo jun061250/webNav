@@ -101,6 +101,11 @@
 					"item": "http://support.huawei.com/onlinetoolsweb/einfofinder/License?module=5&lang=zh",
 					"site": "License查询",
 					"info": "产品license查询"
+				},
+				{
+					"item": "http://support.huawei.com/onlinetoolsweb/einfofinder/Hardware?module=1&lang=zh",
+					"site": "部件信息查询",
+					"info": "硬件部件信息查询"
 				}
 			]
 		},
