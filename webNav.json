@@ -11,6 +11,11 @@
 					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/rpstate",
 					"site": "维修进度查询",
 					"info": "设备维修进度查询\n"
+				},
+				{
+					"item": "http://bbs.sangfor.com.cn/sf.php?mod=online&hash=030ewmlEYHkwiWUCu64Td34nfG6804fSD2DPkr0p%2FTSJc8M3M8ab1QxAPMNwV6%2BUrgnHpqUdGHywNzrgncANvQntbAhG4kvlz4jgjEGCcb3PG8UAIPCq0jHlDRjLCtRnPtS4AfmrrE%2Bw7xnLm4Mx8gk3d%2FRIlbVMfgdZqnM2VXlmhE8r4FAscFPKbwWpJGk7Pf6KaX9LONXQ0dXG9gzGLjH6XiJtETVzOkbFwECvhiq4Z%2FCich%2BQK3BinoAdFA",
+					"site": "智能客服",
+					"info": "智能客服"
 				}
 			],
 			"title": "深信服"
