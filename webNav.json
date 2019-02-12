@@ -45,6 +45,19 @@
 				{
 					"item": "https://apps.juniper.net/feature-explorer/",
 					"site": "产品特性查询"
+				},
+				{
+					"item": "https://partners.juniper.net/partnercenter/tools-resources/close-the-sale/configurator/index.page",
+					"site": "设备选型"
+				},
+				{
+					"item": "https://license.juniper.net/licensemanage/",
+					"site": "License激活"
+				},
+				{
+					"item": "https://lms.juniper.net/lcrs/retrieve.do",
+					"site": "License查找",
+					"info": "用于找回丢失的license"
 				}
 			]
 		},
@@ -61,7 +74,10 @@
 					"site": "光模块兼容查询",
 					"info": "查检光模块与硬件设备兼容情况\n"
 				},
-				{}
+				{
+					"item": "https://apps.cisco.com/ccw/cpc/estimate/create",
+					"site": "设备选型"
+				}
 			]
 		},
 		{
@@ -102,6 +118,7 @@
 					"site": "License查询",
 					"info": "产品license查询"
 				},
+				{},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/einfofinder/Hardware?module=1&lang=zh",
 					"site": "部件信息查询",
