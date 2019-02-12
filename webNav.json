@@ -76,7 +76,13 @@
 				},
 				{
 					"item": "https://apps.cisco.com/ccw/cpc/estimate/create",
-					"site": "设备选型"
+					"site": "清单配置",
+					"info": "清单配置工具"
+				},
+				{
+					"item": "https://www.cisco.com/c/en/us/products/routers/router-selector.html?view=guide",
+					"site": "路由器选型",
+					"info": "路由器选型工具"
 				}
 			]
 		},
