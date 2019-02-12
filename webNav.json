@@ -4,8 +4,8 @@
 			"item": [
 				{
 					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/svrstate",
-					"site": "序列号查询",
-					"info": "深信服序列号查询"
+					"site": "维保查询",
+					"info": "深信服维保查询"
 				},
 				{
 					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/rpstate",
@@ -123,6 +123,14 @@
 				{
 					"item": "https://oasis.h3c.com",
 					"site": "绿洲平台"
+				},
+				{
+					"item": "http://www.h3c.com/cn/Service/Policy_Trends/Authorize_License/Achieve_License/",
+					"site": "License激活"
+				},
+				{
+					"item": "http://help.h3c.com/daheng/chatClient/chatbox.jsp?companyID=8960&configID=20&enterurl=%E6%9C%8D%E5%8A%A1%E5%AF%BC%E8%88%AA%E7%BB%88%E7%AB%AF",
+					"site": "智能在线客服"
 				}
 			]
 		},
