@@ -110,6 +110,10 @@
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/pqt/index.jsp",
 					"site": "默认账号密码"
+				},
+				{
+					"item": "https://wlanplanner.huawei.com/campus/hiFiProject.html?&_language=zh_CN",
+					"site": "无线规划工具"
 				}
 			]
 		},
