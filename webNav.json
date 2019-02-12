@@ -130,6 +130,10 @@
 				{
 					"item": "https://wlanplanner.huawei.com/campus/hiFiProject.html?&_language=zh_CN",
 					"site": "无线规划工具"
+				},
+				{
+					"item": "http://support.huawei.com/livechat/chatClient/chatbox.jsp?companyID=8981&configID=41&syslanguage=0",
+					"site": "智能客服"
 				}
 			]
 		},
