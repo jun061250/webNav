@@ -90,12 +90,17 @@
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/sqt/index?domain=0&lang=zh",
 					"site": "规格查询工具",
-					"info": "提供网络产品的软硬件规格查询和对比功能，可根据产品、版本、款型、单板等条件，或者关键字快速检索信息"
+					"info": "提供网络产品的软硬件规格查询和对比功能"
 				},
 				{
 					"item": "http://support.huawei.com/onlinetoolsweb/einfoplus/Compare/portal?lang=zh",
 					"site": "产品比较工具",
 					"info": "了解产品规格，比较产品差异，一键轻松搞定"
+				},
+				{
+					"item": "http://support.huawei.com/onlinetoolsweb/einfofinder/License?module=5&lang=zh",
+					"site": "License查询",
+					"info": "产品license查询"
 				}
 			]
 		},
