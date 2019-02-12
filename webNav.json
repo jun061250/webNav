@@ -58,6 +58,11 @@
 					"item": "https://lms.juniper.net/lcrs/retrieve.do",
 					"site": "License查找",
 					"info": "用于找回丢失的license"
+				},
+				{
+					"item": "https://support.juniper.net/support/eol/",
+					"site": "停产产品查询",
+					"info": "停产产品查询"
 				}
 			]
 		},
