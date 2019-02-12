@@ -9,7 +9,8 @@
 				},
 				{
 					"item": "http://bbs.sangfor.com.cn/plugin.php?id=service:query#/rpstate",
-					"site": "维修进度查询"
+					"site": "维修进度查询",
+					"info": "设备维修进度查询\n"
 				}
 			],
 			"title": "深信服"
